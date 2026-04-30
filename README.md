@@ -28,7 +28,7 @@ git clone https://github.com/your-username/repository-name.git
 Open index.html in your favorite web browser. 
 
 Github Pages
-
+https://cathedraal.github.io/Image-Guessing-Game/
 
 ## Key Takeaways
 Mastered handling user input events and string comparison logic.
